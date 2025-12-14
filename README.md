@@ -41,7 +41,7 @@ Objectifs principaux :
 ---
 
 ## 2. Installation
-
+Version de python 3.11.4
 ### 2.1. Créer et activer un environnement virtuel
 
 Depuis la racine du projet :
