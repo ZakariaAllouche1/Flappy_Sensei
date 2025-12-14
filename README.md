@@ -33,11 +33,13 @@ Objectifs principaux :
 │  ├─ train_bc_v0.py             
 │  ├─ train_expert_dqn_v3.py
 │  ├─ train_expert_ppo_v1.py
-│  └─ train_flappy_ppo.py         
+│  └─ train_flappy_ppo.py        
 ├─ requirements.txt
 └─ README.md
+```
 
 ---
+
 ## 2. Installation
 
 ### 2.1. Créer et activer un environnement virtuel
