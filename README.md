@@ -37,7 +37,7 @@ Objectifs principaux :
 ├─ requirements.txt
 └─ README.md
 
-
+---
 ## 2. Installation
 
 ### 2.1. Créer et activer un environnement virtuel
